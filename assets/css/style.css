@@ -1,0 +1,30 @@
+body {
+	background-image: url(../images/pow-star.png);
+}
+
+.jumbotron {
+	background-color: #000000 !important;
+	font-family: 'Press Start 2P', cursive;
+	color: #008000 !important;
+	text-align: center;
+}
+
+.col-md-3 {
+	background-color: #000000;
+	color: white;
+	font-size: 18px;
+
+}
+
+img {
+	position: relative;
+	height: 140px;
+	width: 140px;
+	margin: 20px;
+}
+
+.scoreboard {
+	background-color: #008000;
+	color: #fff;
+	text-align: left;
+}
